@@ -1,5 +1,11 @@
 ### Hi there my name is Michael 👋
 
+- 🔭 I’m currently working on mini projects to futher my programming ability
+- 🌱 I’m currently learning Python
+- 😄 2021 Goals: Have the ability to create my own website and showcase my ever growing programming skills
+- ⚡ Fun fact: I ove playing sports such as football and GAA (GAA is Irish Football XD)
+###
+
 <!--
 **mikel112543/mikel112543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,13 +13,5 @@
 
 Here are some ideas to get you started:
 
-###- 🔭 I’m currently working on ...
-###- 🌱 I’m currently learning ...
-###- 👯 I’m looking to collaborate on ...
-###- 🤔 I’m looking for help with ...
-###- 💬 Ask me about ...
-###- 📫 How to reach me: ...
-###- 😄 Pronouns: ...
-###- ⚡ Fun fact: ...
-###
+
 -->
