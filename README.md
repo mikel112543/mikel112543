@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on mini projects to futher my programming ability
 - 🌱 I’m currently learning Python
 - 😄 2021 Goals: Have the ability to create my own website and showcase my ever growing programming skills
-- ⚡ Fun fact: I ove playing sports such as football and GAA (GAA is Irish Football XD)
+- ⚡ Fun fact: I love playing sports such as football and GAA (GAA is Irish Football 😅)
 ###
 
 <!--
