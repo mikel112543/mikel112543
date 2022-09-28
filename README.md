@@ -3,7 +3,7 @@
 - I’m currently working on mini projects to futher my programming ability
 - Currently working on cleaning up my GitHub profile, please ignore the clutter.
 - Some of my more interesting projects include my FYP Android application and BlockBuster project.
--
+- Started to focus more on frontend development using JS and React.
 ###
 
 <!--
