@@ -1,7 +1,9 @@
 ### Hi there my name is Michael 👋
 
 - I’m currently working on mini projects to futher my programming ability
-- Fun fact: I love playing sports such as football and GAA (GAA is Irish Football)
+- Currently working on cleaning up my GitHub profile, please ignore the clutter.
+- Some of my more interesting projects include my FYP Android application and BlockBuster project.
+-
 ###
 
 <!--
